@@ -1,2 +1,2 @@
 # firspython1
-firspythonawdafaf
+firspytho_discription
